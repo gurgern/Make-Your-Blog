@@ -1,0 +1,71 @@
+body {
+    font-family: "Comic Sans MS";
+    background-color: #e6edf2;
+    color: #212bf3;
+    line-height: 1.6;
+}
+
+.blog {
+    margin: auto;
+    max-width: 800px;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 300;
+    color: #212bf3;
+    text-align: center;
+}
+
+.card {
+    padding: 20px;
+    margin-bottom: 30px;
+    background-color: #dae8f2;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border: none;
+    border-radius: 10px
+}
+
+a{
+    text-decoration: none;
+    color: #0c1059;
+}
+
+form{
+background-color: #e1ebf2;
+padding: 30px;
+border-radius: 10px;
+box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+margin: auto;
+max-width: 500px;
+}
+
+input, textarea{
+width: 100%;
+padding: 10px;
+border: 1px solid #ddd;
+border-radius: 5px;
+margin-bottom: 10px;
+box-sizing: border-box;
+}
+
+button{
+background-color: #212bf3;
+color: white;
+padding: 10px 20px;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+}
+
+.post{
+    max-width: 800px;
+    margin: auto;
+}
+
+.author{
+    color: gray;
+    text-align: right;
+}
+
+
